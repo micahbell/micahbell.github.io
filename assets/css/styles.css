@@ -208,6 +208,16 @@ iframe {
   font-size: 18px;
   margin-top: 0;
 }
+
+.latest .item .tools-used {
+  font-size: 14px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: #ed1d49;
+  margin-bottom: 4px;
+}
+
 .latest .item .title .label {
   margin-left: 5px;
   font-size: 12px;
@@ -301,6 +311,16 @@ iframe {
   margin-bottom: 5px;
   line-height: 1.5;
 }
+
+.projects .item .tools-used {
+  font-size: 13px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: #ed1d49;
+  margin-bottom: 4px;
+}
+
 .projects .item .title a {
   color: #778492;
 }
