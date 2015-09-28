@@ -253,6 +253,10 @@ iframe {
 .latest .featured .desc {
   margin-bottom: 30px;
 }
+.desc a#check-it {
+  position: relative;
+  top: 6px;
+}
 .latest .featured-image {
   position: relative;
 }
